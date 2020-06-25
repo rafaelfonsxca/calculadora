@@ -1,0 +1,61 @@
+body{
+    background-color: whitesmoke;
+    font-family: 'Odibee Sans', sans-serif;
+    
+}
+
+.visor{
+    font-family: 'Quantico', sans-serif;
+    width: 400px;
+    height: 70px;
+    font-size: 30px;
+    border: solid 1px whitesmoke;
+    text-align: right;
+    padding: 5px;
+    
+}
+
+.corpo{
+    margin-top: 100px;
+    border: solid 1px #000000;
+    padding: 10px;
+    background-color: rgb(214, 214, 214);
+    border-radius: 5px;
+    box-shadow: 4px 4px 10px #000;
+}
+
+.btn{
+    width: 90px;
+    height: 60px;
+    margin: 3px;
+    background-color: rgb(179, 176, 176);
+    color: black;
+    font-size: 24px;
+    box-shadow: 1px 1px 2px #000000;
+}
+
+.btn:hover{
+    background-color: black;
+    color: rgb(214, 214, 214);
+}
+
+.botoes{
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+.clear{
+    width: 186px;
+}
+
+.enter{
+    height: 130px;
+}
+
+.zero{
+    width: 186px;
+}
+
+.low{
+    margin-top: -70px;
+}
